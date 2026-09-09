@@ -30,7 +30,10 @@ This repository hosts the Windows installer and the issue tracker. The source co
 2. Run it. It installs to `C:\DEEPSOUND\BeamPlanner`.
 3. Start Beam Planner from the Start menu.
 
-Windows SmartScreen may say the publisher is unknown, because the installer is not code-signed yet. Choose **More info**, then **Run anyway**.
+The installer is not code-signed yet, so two warnings are expected and can be passed:
+
+- Your browser may say the file is not commonly downloaded. Choose **Keep**.
+- Windows SmartScreen may say the publisher is unknown. Choose **More info**, then **Run anyway**.
 
 Installing a newer version over an older one keeps your license and your settings. Close Beam Planner before you run the installer.
 
