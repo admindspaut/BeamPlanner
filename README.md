@@ -49,7 +49,7 @@ Beam Planner needs a license to start. One license covers one PC.
 
 The activation window shows a **Device ID** for the PC you are on. Send us that value to get a license, and use the same window to enter the license key or load the `.lic` file we send back.
 
-**Do not post license keys or Device IDs here.** Issues in this repository are public. For anything about licensing, activation, moving a license to another PC, or purchasing, contact us through [dspaut.com](https://dspaut.com).
+**Do not post license keys or Device IDs here.** Issues in this repository are public. For anything about licensing, activation, moving a license to another PC, or purchasing, write to **support@dspaut.com**.
 
 ## Reporting a problem or asking for a feature
 

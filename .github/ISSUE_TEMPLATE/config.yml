@@ -4,5 +4,5 @@ blank_issues_enabled: false
 
 contact_links:
   - name: License, activation or purchasing
-    url: https://dspaut.com
-    about: Contact us directly. Do not post license keys or Device IDs in public issues.
+    url: mailto:support@dspaut.com
+    about: Write to support@dspaut.com. Do not post license keys or Device IDs in public issues.
