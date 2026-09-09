@@ -1,0 +1,48 @@
+name: Bug report
+description: Something in Beam Planner does not work as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues here are public.
+
+        **Do not post license keys or Device IDs.** For licensing, activation or moving a
+        license to another PC, contact us through [dspaut.com](https://dspaut.com) instead.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you expect, and what did you get instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you clicked, in order. A setup file or a screenshot helps.
+      placeholder: |
+        1. Open Beam Planner
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Beam Planner version
+      description: Help ▸ About shows it.
+      placeholder: "1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 23H2
+    validations:
+      required: false

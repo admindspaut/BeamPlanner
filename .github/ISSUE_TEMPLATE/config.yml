@@ -1,0 +1,8 @@
+# 새 issue 화면에서 template 밖의 길을 막고, license 문의를 밖으로 돌린다.
+# Device ID와 license key는 공개 자리에 적히면 안 된다. (plan.md 9단계)
+blank_issues_enabled: false
+
+contact_links:
+  - name: License, activation or purchasing
+    url: https://dspaut.com
+    about: Contact us directly. Do not post license keys or Device IDs in public issues.
