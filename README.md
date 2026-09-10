@@ -2,7 +2,7 @@
 
 Beam Planner prepares phased-array ultrasonic testing (PAUT) setups and writes them as `.SET` files for DEEPSOUND instruments.
 
-**[Try it in your browser](https://beamplanner.fly.dev)** · **[Download the latest release](https://github.com/admindspaut/BeamPlanner/releases/latest)**
+**[Try it in your browser](https://beamplanner.dspaut.com)** · **[Download the latest release](https://github.com/admindspaut/BeamPlanner/releases/latest)**
 
 This repository hosts the Windows installer and the issue tracker. The source code is not public.
 
@@ -17,7 +17,7 @@ This repository hosts the Windows installer and the issue tracker. The source co
 
 ## Trying it without installing
 
-[beamplanner.fly.dev](https://beamplanner.fly.dev) runs the same screens in your browser, with no
+[beamplanner.dspaut.com](https://beamplanner.dspaut.com) runs the same screens in your browser, with no
 licence and no download. It is there to show you what Beam Planner does before you buy it.
 
 The browser version cannot open or save `.SET` files, keeps nothing between visits, and is fixed to
